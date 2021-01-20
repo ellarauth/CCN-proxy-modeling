@@ -10,7 +10,7 @@
 % 7 = Time zone of the data
 % 8 = Measurement device
 
-12.99, 50.57, 545	ABZ	Annaberg-Buchholz, Germany		Urban background			UTC+1		smps
+50.57, 12.99, 545	ABZ	Annaberg-Buchholz, Germany		Urban background			UTC+1		smps
 82.492, -62.508, 75	ALE	Alert, Canada				Polar					UTC-4		smps
 			AMA	Amazon										UTC
 			AMM	Amman, Jordan									UTC+2
