@@ -1,12 +1,12 @@
 # https://confluence.ecmwf.int/display/CKB/CAMS%3A+Reanalysis+data+documentation#CAMS:Reanalysisdatadocumentation-Parameterlistings
 
-# all csv files (apart from n100_data.csv, which doesn't contain latitude and longitude)
+# general variables
 station		Station name abbreviation (3 letters)
 date		Date of the measurement (dd-mm-yyy)
 latitude	Latitude (degrees; positive N, negative S)
 longitude	Longitude (degrees; positive E, negative W)
 
-# aerosols_data.csv
+# aerosols_data
 aermr01		Sea salt aerosol (0.03 - 0.5 µm) mixing ratio* (in kg kg_air-1)
 aermr02		Sea salt aerosol (0.5 - 5 µm) mixing ratio* (in kg kg_air-1)
 aermr03		Sea salt aerosol (5 - 20 µm) mixing ratio* (in kg kg_air-1)
@@ -19,26 +19,26 @@ aermr09		Hydrophilic black carbon aerosol mixing ratio* (in kg kg_air-1)
 aermr10		Hydrophobic black carbon aerosol mixing ratio* (in kg kg_air-1)
 aermr11		Sulphate aerosol mixing ratio* (in kg kg_air-1)
 
-# atmospheric_data.csv
+# atmospheric_data
 d2m		air temperature at 2m height (in K)
 t2m		dew point termperature at 2m height (in K)
 
-# boundary_layer_height_data.csv
+# boundary_layer_height_data
 blh		Boundary layer height (in )
 
-# gases_data.csv
+# gases_data
 co		Carbon monoxide* (in kg kg_air-1)
 c5h8		Isoprene* (in kg kg_air-1)
 no2		Nitrogen dioxide* (in kg kg_air-1)
 no		Nitrogen monoxide* (in kg kg_air-1)
 so2		Sulphur dioxide* (in kg kg_air-1)
 
-# slow_access_data.csv
+# slow_access_data
 nh3		Ammonia* (in kg kg_air-1)
 crwc		Specific rain water content (in kg kg_air-1)
 c10h16		Terpenes* (in kg kg_air-1)
 
-# n100_data.csv
+# n100_data
 n100		N100 concentration (in )
 
 *In the CAMS Global Reanalysis, this variable is the mass mixing ratio at different pressure or model levels in kg kg-1

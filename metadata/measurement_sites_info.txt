@@ -12,8 +12,8 @@
 
 50.57, 12.99, 545	ABZ	Annaberg-Buchholz, Germany		Urban background			UTC+1			smps
 82.492, -62.508, 75	ALE	Alert, Canada				Polar					UTC-4			smps
--2.146, -59.006, 130	AMA	Amazonas, Brazil								UTC
-32.01, 35.87, ??	AMM	Amman, Jordan									UTC+2 (not confirmed)
+-2.146, -59.006, 130	AMA	Amazonas, Brazil								UTC   (not local time)
+32.01, 35.87, ??	AMM	Amman, Jordan									UTC+2
 58.80, 17.38, 25	ASP	Aspvreten, Sweden			Rural					UTC+1			dmps
 39.94, 116.3, ??	BEI	Beijing, China									UTC+8
 -25.5, 25.8, 1400	BOT	Botsalano, South Africa			Rural					UTC+2			dmps
@@ -36,7 +36,7 @@
 -23.6, -46.6, 750	SAO	São Paulo, Brazil			Urban					UTC-3			dmps
 47.91, 7.91, 1205	SCH	Schauinsland, Germany			High-altitude, regional background	UTC+1			smps
 36.6, -97.5, 300	SGP	Southern Great Plains, Oklahoma, US	Rural					UTC-5			dmps
-25.23, 55.98, 165	UAE	United Arab Emirates								UTC+4 (not confirmed)
+25.23, 55.98, 165	UAE	United Arab Emirates								UTC   (not local time)
 67.76, 29.61, 390	VAR	Värriö, Finland				Remote					UTC+2			dmps
 50.30, 6.00, 496	VIE	Vielsalm, Belgium			Rural					UTC+1			smps
 52.80, 10.76, 75	WAL	Waldhof, Germany			Rural, regional background		UTC+1			smps
