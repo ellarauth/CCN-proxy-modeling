@@ -20,8 +20,8 @@ aermr10		Hydrophobic black carbon aerosol mixing ratio* (in kg kg_air-1)
 aermr11		Sulphate aerosol mixing ratio* (in kg kg_air-1)
 
 # atmospheric_data
-d2m		air temperature at 2m height (in K)
-t2m		dew point termperature at 2m height (in K)
+d2m		dew point temperature at 2m height (in K)
+t2m		air temperature at 2m height (in K)
 
 # boundary_layer_height_data
 blh		Boundary layer height (in )
@@ -40,5 +40,8 @@ c10h16		Terpenes* (in kg kg_air-1)
 
 # n100_data
 n100		N100 concentration (in )
+
+# calculated variables
+rh		relative humidity (in %)
 
 *In the CAMS Global Reanalysis, this variable is the mass mixing ratio at different pressure or model levels in kg kg-1
