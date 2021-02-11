@@ -3,8 +3,9 @@
 # general variables
 station		Station name abbreviation (3 letters)
 date		Date of the measurement (dd-mm-yyy)
-latitude	Latitude (degrees; positive N, negative S)
-longitude	Longitude (degrees; positive E, negative W)
+latitude	Latitude (originally in degrees; positive N, negative S, scaled to range [-1, 1])
+longitude	Longitude (originally in degrees; positive E, negative W, scaled to range [-1, 1])
+
 
 # aerosols_data
 aermr01		Sea salt aerosol (0.03 - 0.5 µm) mixing ratio* (in kg kg_air-1)
@@ -43,5 +44,9 @@ n100		N100 concentration (in )
 
 # calculated variables
 rh		relative humidity (in %)
+doy_sin		Day of the year (doy): sin((2*pi*doy)/366)
+doy_cos		Day of the year (doy): cos((2*pi*doy)/366)
+longitude_sin	Longitude: sin((2*pi*longitude)/180)
+longitude_cos	Longitude: cos((2*pi*longitude)/180)
 
 *In the CAMS Global Reanalysis, this variable is the mass mixing ratio at different pressure or model levels in kg kg-1
