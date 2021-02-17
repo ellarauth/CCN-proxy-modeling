@@ -44,9 +44,14 @@ n100		N100 concentration (in )
 
 # calculated variables
 rh		relative humidity (in %)
-doy_sin		Day of the year (doy): sin((2*pi*doy)/366)
-doy_cos		Day of the year (doy): cos((2*pi*doy)/366)
-longitude_sin	Longitude: sin((2*pi*longitude)/180)
-longitude_cos	Longitude: cos((2*pi*longitude)/180)
+aermr_seasalt	Sea salt aerosol (0.03 - 20 µm) mixing ratio* (in kg kg_air-1)
+aermr_dust	Dust aerosol (0.03 - 20 µm) mixing ratio* (in kg kg_air-1)
+aermr_om	Organic matter aerosol mixing ratio* (in kg kg_air-1)
+aermr_bc	Black carbon aerosol mixing ratio* (in kg kg_air-1)
+aermr_ombc	Organic matter and black carbon aerosol mixing ratio* (in kg kg_air-1)
+doy_sin		Day of the year (doy): sin((2*pi*doy)/366) (in range [-1, 1])
+doy_cos		Day of the year (doy): cos((2*pi*doy)/366) (in range [-1, 1])
+longitude_sin	Longitude: sin((2*pi*longitude)/180) (in range [-1, 1])
+longitude_cos	Longitude: cos((2*pi*longitude)/180) (in range [-1, 1])
 
 *In the CAMS Global Reanalysis, this variable is the mass mixing ratio at different pressure or model levels in kg kg-1
