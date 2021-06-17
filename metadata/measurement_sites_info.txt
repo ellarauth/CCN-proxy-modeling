@@ -12,36 +12,36 @@
 
 50.57, 12.99, 545	ABZ	Annaberg-Buchholz, Germany		Urban background			UTC+1			smps
 82.492, -62.508, 75	ALE	Alert, Canada				Polar					UTC-4			smps
--2.146, -59.006, 130	AMA	Amazonas, Brazil								UTC   (not local time)
-32.01, 35.87, ??	AMM	Amman, Jordan									UTC+2
+-2.146, -59.006, 130	AMA	Amazonas, Brazil			(Remote)				UTC   (not local time)
+32.01, 35.87, ??	AMM	Amman, Jordan				(Urban)					UTC+2
 58.80, 17.38, 25	ASP	Aspvreten, Sweden			Rural					UTC+1			dmps
-39.94, 116.3, ??	BEI	Beijing, China									UTC+8
+39.94, 116.3, ??	BEI	Beijing, China				(Urban)					UTC+8
 -25.5, 25.8, 1400	BOT	Botsalano, South Africa			Rural					UTC+2			dmps
 53.00, 7.95, 17		BSL	Bösel (Südoldenburg), Germany		Rural, regional background		UTC+1			smps
-28.55, 77.19, ??	DEL	Delhi, India									UTC+4:30
+28.55, 77.19, ??	DEL	Delhi, India				(Urban)					UTC+4:30
 44.2, -79.8, 251	EGB	Egbert, Canada				Rural					UTC-4			smps
-35.20, 25.40, ?? 	FKL	Finokalia, Greece (Krete)							UTC+2
-21.802, 39.729, ??	HAD	Haddat ash Sham, Saudi Arabia							UTC+3
+35.20, 25.40, ?? 	FKL	Finokalia, Greece (Krete)		(Coastal)				UTC+2
+21.802, 39.729, ??	HAD	Haddat ash Sham, Saudi Arabia		(Rural)					UTC+3
 60.20, 24.96, 26	HEL	Helsinki, Finland			Urban					UTC+2			dmps
 47.80, 11.0, 988	HPB	Hohenpeissenberg, Germany		Rural					UTC+1			smps
-51.60, -1.30, ??	HRW	Harwell, England								UTC
+51.60, -1.30, ??	HRW	Harwell, England			(Rural)					UTC
 61.85, 24.29, 181	HYY	Hyytiälä, Finland			Rural					UTC+2			dmps
 49.56, 15.08, 534	KCE	Kosetice, Czech Republic		Rural, regional background		UTC+1			smps
 46.97, 19.55, 125	KPZ	K-Puszta, Hungary			Rural, regional background		UTC+1			dmps
 -25.7, 27.5, 1170	MAR	Marikana, South Africa			Urban					UTC+2			dmps
 53.32, -9.88, 10	MHD	Mace Head, Ireland			Remote, coastal				UTC			smps
 51.53, 12.90, 87	MLP	Melpitz, Germany			Rural					UTC+1			dmps
-29.47, 79.65, ??	MUK	Mukteshwar, India								UTC+5:30
+29.47, 79.65, ??	MUK	Mukteshwar, India			(Remote)				UTC+5:30
 32.2, 118.9, 25		NAN	Nanjing, China				Urban					UTC+8			dmps
 53.14, 13.03, 70	NEU	Neuglobsow, Germany			Rural, regional background		UTC+1			smps
-44.65, 11.62, ??	POV	Po Valley, Italy								UTC+1
-55.55, 22.00, 5		PRL	Preila, Lithuania								UTC+2
+44.65, 11.62, ??	POV	Po Valley, Italy			(Urban background)			UTC+1
+55.55, 22.00, 5		PRL	Preila, Lithuania			(Rural)					UTC+2
 -23.6, -46.6, 750	SAO	São Paulo, Brazil			Urban					UTC-3			dmps
 47.91, 7.91, 1205	SCH	Schauinsland, Germany			High-altitude, regional background	UTC+1			smps
 36.6, -97.5, 300	SGP	Southern Great Plains, Oklahoma, US	Rural					UTC-5			dmps
-25.23, 55.98, 165	UAE	United Arab Emirates								UTC   (not local time)
+25.23, 55.98, 165	UAE	United Arab Emirates			(Rural)					UTC   (not local time)
 67.76, 29.61, 390	VAR	Värriö, Finland				Remote					UTC+2			dmps
-56.04, 13.52, ??	VHL	Vavihill, Sweden								UTC+1
+56.04, 13.52, ??	VHL	Vavihill, Sweden			(Rural)					UTC+1
 50.30, 6.00, 496	VIE	Vielsalm, Belgium			Rural					UTC+1			smps
 52.80, 10.76, 75	WAL	Waldhof, Germany			Rural, regional background		UTC+1			smps
-60.8, 89.35, ??		ZOT	Zotino, Russia									UTC+5
+60.8, 89.35, ??		ZOT	Zotino, Russia				(Remote)				UTC+5
